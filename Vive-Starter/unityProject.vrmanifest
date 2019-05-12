@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vivestarter.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\Meet\\Unity\\Vive-Starter\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Vive-Starter [Testing]"
+        }
+      }
+    }
+  ]
+}
